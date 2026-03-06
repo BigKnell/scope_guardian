@@ -28,6 +28,12 @@ The hook is pre-wired in `.claude/settings.json`. No additional configuration ne
 
 ---
 
+## Tutorial
+
+A PDF tutorial is included in this repository to guide you through the concepts covered in this project. You can find it at [`task_2_1_tutorial.pdf`](task_2_1_tutorial.pdf).
+
+---
+
 ## Project Structure
 
 ```
